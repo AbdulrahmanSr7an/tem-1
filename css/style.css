@@ -184,7 +184,7 @@ html {
 
 .landing {
   height: calc(100vh - 64px);
-  background-image: url("image/landing.jpg");
+  background-image: url("/image/landing.jpg");
   background-size: cover;
   position: relative;
 }
@@ -458,7 +458,7 @@ html {
 
 .contact .contact-text p:nth-child(2) {
   color: #10cab7;
-  font-size: 33px;
+  font-size: 28px;
   font-weight: 800;
   margin-bottom: -5px;
 }
